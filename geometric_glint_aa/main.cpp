@@ -5,7 +5,7 @@
 // Implementation of
 // Real-Time Geometric Glint Anti-Aliasing with Normal Map Filtering
 // 2021 Xavier Chermain (ICUBE), Simon Lucas(ICUBE), Basile Sauvage (ICUBE), Jean-Michel Dishler (ICUBE) and Carsten Dachsbacher (KIT)
-// Accepted for [i3D 2021](http://i3dsymposium.github.io/2021/) and for CFG special issue.
+// Accepted for [i3D 2021](http://i3dsymposium.github.io/2021/).
 
 #include "scene.h"
 #include "scenerunner.h"
