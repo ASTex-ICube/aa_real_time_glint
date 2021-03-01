@@ -1,0 +1,13 @@
+# ! Warning !
+# Ke and Ka have to be defined.
+#
+# Ke <bump factor> <uv scale x> <uv scale y>
+# Ka <logMicrofacetDensity> <microfacetRelativeArea> _
+
+newmtl sphere
+	Ns 798.
+	Kd 0.8 0. 0.
+	Ks 0.5 0.5 0.5
+	Ke 8. 4. 4.
+	Ka 23.3 0.5 0.
+	map_bump textures/bump.png
