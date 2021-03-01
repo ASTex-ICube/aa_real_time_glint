@@ -14,7 +14,7 @@ The OpenGL implementation of the paper: **Real-Time Geometric Glint Anti-Aliasin
 [Carsten Dachsbacher](https://cg.ivd.kit.edu/english/dachsbacher/)
 ([KIT](https://www.kit.edu/english/index.php)).
 
-Accepted for [i3D 2021](http://i3dsymposium.github.io/2021/).
+Accepted for [i3D 2021](http://i3dsymposium.github.io/2021/) and for CFG special issue.
 
 * [Paper](http://igg.unistra.fr/People/chermain/assets/pdf/Chermain2021RealTime.pdf)
 
