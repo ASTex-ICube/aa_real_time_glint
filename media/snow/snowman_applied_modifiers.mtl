@@ -1,0 +1,61 @@
+# Blender MTL File: 'snowman_applied_modifiers.blend'
+# Material Count: 5
+
+# ! Warning !
+# Ke and Ka have to be defined.
+#
+# Ke <bump factor> <uv scale x> <uv scale y>
+# Ka <logMicrofacetDensity> <microfacetRelativeArea> _
+
+
+newmtl Carrot
+Ns 85.562535
+Ka 20.000000 1.000000 1.000000
+Kd 0.800000 0.199049 0.000000
+Ks 0.008000 0.001990 0.000000
+#Ks 0.00000 0.00 0.000000
+Ke 8.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Coal
+Ns 85.562535
+Ka 20.000000 1.0000s00 1.000000
+Kd 0.062706 0.062706 0.062706
+Ks 0.0062706 0.0062706 0.0062706
+Ke 8.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Ground
+Ns 798
+Ka 10.52 0.24600 1.000000
+Kd 1. 1. 1.
+Ks 1. 1. 1.
+Ke 8.000000 10.000000 10.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_bump textures/bump_blurred_tileable.png
+
+newmtl Snow
+Ns 575.999996
+Ka 20.000000 1.000000 1.000000
+Kd 1. 1. 1.
+Ks 1. 1. 1.
+Ke 8.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Wood
+Ns 225.000000
+Ka 20.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1. 1. 1.
+Ke 8.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2

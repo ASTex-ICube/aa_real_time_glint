@@ -1,0 +1,39 @@
+# Blender MTL File: 'snowflake.blend'
+# Material Count: 3
+
+# ! Warning !
+# Ke and Ka have to be defined.
+#
+# Ke <bump factor> <uv scale x> <uv scale y>
+# Ka <logMicrofacetDensity> <microfacetRelativeArea> _
+
+
+newmtl Material
+Ns 225.000000
+Ka 10.52 0.24600 1.000000
+Kd 0.362963 0.703704 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 8.000000 1. 1.
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 225.000000
+Ka 10.52 0.24600 1.000000
+Kd 1. 1. 1.
+Ks 0. 0. 0.
+Ke 8.000000 1. 1.
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl red_glass
+Ns 225.000000
+Ka 10.52 0.24600 1.000000
+Kd 1. 0.2 0.1
+Ks 0. 0. 0.
+Ke 8.000000 1. 1.
+Ni 1.000000
+d 1.000000
+illum 2
